@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="jzo2o-rabbitmq" />
+        <module name="jzo2o-shardingsphere-jdbc" />
+        <module name="jzo2o-redis" />
+        <module name="jzo2o-common" />
+        <module name="jzo2o-sentinel" />
+        <module name="jzo2o-es" />
+        <module name="jzo2o-xxl-job" />
+        <module name="jzo2o-foundations (1)" />
+        <module name="jzo2o-foundations" />
+        <module name="jzo2o-seata" />
+        <module name="jzo2o-orders-manager" />
+        <module name="jzo2o-statemachine" />
+        <module name="jzo2o-api" />
+        <module name="jzo2o-mvc" />
+        <module name="jzo2o-gateway" />
+        <module name="jzo2o-knife4j-web" />
+        <module name="jzo2o-thirdparty" />
+        <module name="jzo2o-customer" />
+        <module name="jzo2o-orders-base" />
+        <module name="jzo2o-trade" />
+        <module name="jzo2o-publics" />
+        <module name="jzo2o-mysql" />
+        <module name="jzo2o-canal-sync" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="jzo2o-api" target="11" />
+      <module name="jzo2o-canal-sync" target="11" />
+      <module name="jzo2o-common" target="11" />
+      <module name="jzo2o-customer" target="11" />
+      <module name="jzo2o-es" target="11" />
+      <module name="jzo2o-foundations" target="11" />
+      <module name="jzo2o-foundations (1)" target="11" />
+      <module name="jzo2o-gateway" target="11" />
+      <module name="jzo2o-knife4j-web" target="11" />
+      <module name="jzo2o-mvc" target="11" />
+      <module name="jzo2o-mysql" target="11" />
+      <module name="jzo2o-orders" target="11" />
+      <module name="jzo2o-orders-base" target="11" />
+      <module name="jzo2o-orders-manager" target="11" />
+      <module name="jzo2o-parent" target="11" />
+      <module name="jzo2o-publics" target="11" />
+      <module name="jzo2o-rabbitmq" target="11" />
+      <module name="jzo2o-redis" target="11" />
+      <module name="jzo2o-seata" target="11" />
+      <module name="jzo2o-sentinel" target="11" />
+      <module name="jzo2o-shardingsphere-jdbc" target="11" />
+      <module name="jzo2o-statemachine" target="11" />
+      <module name="jzo2o-thirdparty" target="11" />
+      <module name="jzo2o-trade" target="11" />
+      <module name="jzo2o-xxl-job" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="jzo2o-api" options="-parameters" />
+      <module name="jzo2o-canal-sync" options="-parameters" />
+      <module name="jzo2o-common" options="-parameters" />
+      <module name="jzo2o-customer" options="-parameters" />
+      <module name="jzo2o-es" options="-parameters" />
+      <module name="jzo2o-foundations" options="-parameters" />
+      <module name="jzo2o-foundations (1)" options="-parameters" />
+      <module name="jzo2o-gateway" options="-parameters" />
+      <module name="jzo2o-knife4j-web" options="-parameters" />
+      <module name="jzo2o-mvc" options="-parameters" />
+      <module name="jzo2o-mysql" options="-parameters" />
+      <module name="jzo2o-orders-base" options="-parameters" />
+      <module name="jzo2o-orders-manager" options="-parameters" />
+      <module name="jzo2o-publics" options="-parameters" />
+      <module name="jzo2o-rabbitmq" options="-parameters" />
+      <module name="jzo2o-redis" options="-parameters" />
+      <module name="jzo2o-seata" options="-parameters" />
+      <module name="jzo2o-sentinel" options="-parameters" />
+      <module name="jzo2o-shardingsphere-jdbc" options="-parameters" />
+      <module name="jzo2o-statemachine" options="-parameters" />
+      <module name="jzo2o-thirdparty" options="-parameters" />
+      <module name="jzo2o-trade" options="-parameters" />
+      <module name="jzo2o-xxl-job" options="-parameters" />
+    </option>
+  </component>
+</project>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: me.ahoo.cosid:cosid-core:1.18.5">
+    <CLASSES>
+      <root url="jar://D:/apache/repository/me/ahoo/cosid/cosid-core/1.18.5/cosid-core-1.18.5.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/apache/repository/me/ahoo/cosid/cosid-core/1.18.5/cosid-core-1.18.5-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://D:/apache/repository/me/ahoo/cosid/cosid-core/1.18.5/cosid-core-1.18.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

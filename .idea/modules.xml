@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/clouditem.iml" filepath="$PROJECT_DIR$/.idea/clouditem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jzo2o-api/jzo2o-api.iml" filepath="$PROJECT_DIR$/jzo2o-api/jzo2o-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jzo2o-framework/jzo2o-canal-sync/jzo2o-canal-sync.iml" filepath="$PROJECT_DIR$/jzo2o-framework/jzo2o-canal-sync/jzo2o-canal-sync.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jzo2o-framework/jzo2o-common/jzo2o-common.iml" filepath="$PROJECT_DIR$/jzo2o-framework/jzo2o-common/jzo2o-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jzo2o-customer/jzo2o-customer.iml" filepath="$PROJECT_DIR$/jzo2o-customer/jzo2o-customer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jzo2o-framework/jzo2o-es/jzo2o-es.iml" filepath="$PROJECT_DIR$/jzo2o-framework/jzo2o-es/jzo2o-es.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jzo2o-foundations/jzo2o-foundations.iml" filepath="$PROJECT_DIR$/jzo2o-foundations/jzo2o-foundations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jzo2o-foundations-02-0/jzo2o-foundations/jzo2o-foundations (1).iml" filepath="$PROJECT_DIR$/jzo2o-foundations-02-0/jzo2o-foundations/jzo2o-foundations (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/jzo2o-gateway/jzo2o-gateway.iml" filepath="$PROJECT_DIR$/jzo2o-gateway/jzo2o-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jzo2o-framework/jzo2o-knife4j-web/jzo2o-knife4j-web.iml" filepath="$PROJECT_DIR$/jzo2o-framework/jzo2o-knife4j-web/jzo2o-knife4j-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jzo2o-framework/jzo2o-mvc/jzo2o-mvc.iml" filepath="$PROJECT_DIR$/jzo2o-framework/jzo2o-mvc/jzo2o-mvc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jzo2o-framework/jzo2o-mysql/jzo2o-mysql.iml" filepath="$PROJECT_DIR$/jzo2o-framework/jzo2o-mysql/jzo2o-mysql.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jzo2o-orders-01-0/jzo2o-orders/jzo2o-orders.iml" filepath="$PROJECT_DIR$/jzo2o-orders-01-0/jzo2o-orders/jzo2o-orders.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jzo2o-orders-01-0/jzo2o-orders/jzo2o-orders-base/jzo2o-orders-base.iml" filepath="$PROJECT_DIR$/jzo2o-orders-01-0/jzo2o-orders/jzo2o-orders-base/jzo2o-orders-base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jzo2o-orders-01-0/jzo2o-orders/jzo2o-orders-manager/jzo2o-orders-manager.iml" filepath="$PROJECT_DIR$/jzo2o-orders-01-0/jzo2o-orders/jzo2o-orders-manager/jzo2o-orders-manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jzo2o-framework/jzo2o-parent/jzo2o-parent.iml" filepath="$PROJECT_DIR$/jzo2o-framework/jzo2o-parent/jzo2o-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jzo2o-publics/jzo2o-publics.iml" filepath="$PROJECT_DIR$/jzo2o-publics/jzo2o-publics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jzo2o-framework/jzo2o-rabbitmq/jzo2o-rabbitmq.iml" filepath="$PROJECT_DIR$/jzo2o-framework/jzo2o-rabbitmq/jzo2o-rabbitmq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jzo2o-framework/jzo2o-redis/jzo2o-redis.iml" filepath="$PROJECT_DIR$/jzo2o-framework/jzo2o-redis/jzo2o-redis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jzo2o-framework/jzo2o-seata/jzo2o-seata.iml" filepath="$PROJECT_DIR$/jzo2o-framework/jzo2o-seata/jzo2o-seata.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jzo2o-framework/jzo2o-sentinel/jzo2o-sentinel.iml" filepath="$PROJECT_DIR$/jzo2o-framework/jzo2o-sentinel/jzo2o-sentinel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jzo2o-framework/jzo2o-shardingsphere-jdbc/jzo2o-shardingsphere-jdbc.iml" filepath="$PROJECT_DIR$/jzo2o-framework/jzo2o-shardingsphere-jdbc/jzo2o-shardingsphere-jdbc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jzo2o-framework/jzo2o-statemachine/jzo2o-statemachine.iml" filepath="$PROJECT_DIR$/jzo2o-framework/jzo2o-statemachine/jzo2o-statemachine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jzo2o-framework/jzo2o-thirdparty/jzo2o-thirdparty.iml" filepath="$PROJECT_DIR$/jzo2o-framework/jzo2o-thirdparty/jzo2o-thirdparty.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jzo2o-trade/jzo2o-trade/jzo2o-trade.iml" filepath="$PROJECT_DIR$/jzo2o-trade/jzo2o-trade/jzo2o-trade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jzo2o-framework/jzo2o-xxl-job/jzo2o-xxl-job.iml" filepath="$PROJECT_DIR$/jzo2o-framework/jzo2o-xxl-job/jzo2o-xxl-job.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/jzo2o-api/pom.xml" />
+        <option value="$PROJECT_DIR$/jzo2o-trade/jzo2o-trade/pom.xml" />
+        <option value="$PROJECT_DIR$/jzo2o-gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/jzo2o-publics/pom.xml" />
+        <option value="$PROJECT_DIR$/jzo2o-customer/pom.xml" />
+        <option value="$PROJECT_DIR$/jzo2o-framework/jzo2o-es/pom.xml" />
+        <option value="$PROJECT_DIR$/jzo2o-framework/jzo2o-mvc/pom.xml" />
+        <option value="$PROJECT_DIR$/jzo2o-framework/jzo2o-mysql/pom.xml" />
+        <option value="$PROJECT_DIR$/jzo2o-framework/jzo2o-redis/pom.xml" />
+        <option value="$PROJECT_DIR$/jzo2o-framework/jzo2o-seata/pom.xml" />
+        <option value="$PROJECT_DIR$/jzo2o-framework/jzo2o-common/pom.xml" />
+        <option value="$PROJECT_DIR$/jzo2o-framework/jzo2o-parent/pom.xml" />
+        <option value="$PROJECT_DIR$/jzo2o-framework/jzo2o-xxl-job/pom.xml" />
+        <option value="$PROJECT_DIR$/jzo2o-framework/jzo2o-rabbitmq/pom.xml" />
+        <option value="$PROJECT_DIR$/jzo2o-framework/jzo2o-sentinel/pom.xml" />
+        <option value="$PROJECT_DIR$/jzo2o-framework/jzo2o-canal-sync/pom.xml" />
+        <option value="$PROJECT_DIR$/jzo2o-framework/jzo2o-thirdparty/pom.xml" />
+        <option value="$PROJECT_DIR$/jzo2o-framework/jzo2o-knife4j-web/pom.xml" />
+        <option value="$PROJECT_DIR$/jzo2o-framework/jzo2o-statemachine/pom.xml" />
+        <option value="$PROJECT_DIR$/jzo2o-framework/jzo2o-shardingsphere-jdbc/pom.xml" />
+        <option value="$PROJECT_DIR$/jzo2o-foundations/pom.xml" />
+        <option value="$PROJECT_DIR$/jzo2o-orders-01-0/jzo2o-orders/pom.xml" />
+        <option value="$PROJECT_DIR$/jzo2o-foundations-02-0/jzo2o-foundations/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="ms-11" project-jdk-type="JavaSDK" />
+</project>
