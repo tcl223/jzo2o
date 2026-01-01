@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/jzo2o-orders/jzo2o-orders.iml" filepath="$PROJECT_DIR$/jzo2o-orders/jzo2o-orders.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/jzo2o-orders-01-0.iml" filepath="$PROJECT_DIR$/.idea/jzo2o-orders-01-0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jzo2o-orders/jzo2o-orders-base/jzo2o-orders-base.iml" filepath="$PROJECT_DIR$/jzo2o-orders/jzo2o-orders-base/jzo2o-orders-base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jzo2o-orders/jzo2o-orders-manager/jzo2o-orders-manager.iml" filepath="$PROJECT_DIR$/jzo2o-orders/jzo2o-orders-manager/jzo2o-orders-manager.iml" />
+    </modules>
+  </component>
+</project>
